@@ -67,7 +67,7 @@
 	<div class="container container-page">
 		<div class="box" style="margin-top:20px">
 			<div class="box-header">
-				<h3 class="box-title">SportyShoes List</h3>
+				<h3 class="box-title">SportyShoes Purchase Report</h3>
 			</div>
 			<div class="box-header form-inline">
 					<div class="form-group">

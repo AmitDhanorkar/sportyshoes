@@ -19,7 +19,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>SportyShoes List</title>
+<title>SportyShoes.com</title>
 </head>
 <body>
 	<nav class="navbar navbar-inverse navbar-fixed-top">

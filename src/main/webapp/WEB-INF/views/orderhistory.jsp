@@ -21,7 +21,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>SportyShoes List</title>
+<title>SportyShoes.com</title>
 </head>
 <body>
 	<nav class="navbar navbar-inverse navbar-fixed-top">
@@ -65,7 +65,7 @@
 	<div class="container container-page">
 		<div class="box" style="margin-top:20px">
 			<div class="box-header">
-				<h3 class="box-title">SportyShoes User List</h3>
+				<h3 class="box-title">My Order History</h3>
 			</div>
 			<div class="box-body table-responsive no-padding">
 				<table class="table">
